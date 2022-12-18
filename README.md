@@ -1,2 +1,2 @@
-# openms
+# oms
 open micro service
